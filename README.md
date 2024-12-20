@@ -27,4 +27,4 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabyasc&show_icons=true&theme=radical" />
 </p>
 
-© 2024 Sabyasachi Chakraborty
+© 2024 sabyasc
