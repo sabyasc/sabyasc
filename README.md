@@ -1,5 +1,5 @@
 
-<h1><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png" width="30"/> Hello World! I'm Sabyasachi - A Passionate Software Engineer 🚀</h1>
+<h1><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png" width="30"/> Hello World! I'm Sabya - A Passionate Software Engineer 🚀</h1>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer;MLOps+Engineer;Dream+to+Create+for+Good" />
