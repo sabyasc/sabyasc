@@ -19,8 +19,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=white) ![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven&logoColor=white) &nbsp; 
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws) ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white) &nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-05122A?style=flat&logo=html5&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) &nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-05122A?style=flat&logo=html5&logoColor=white) &nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) ![REST APIs](https://img.shields.io/badge/-REST%20APIs-05122A?style=flat&logo=rest)
 
 ### 📊 GitHub Stats
