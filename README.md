@@ -1,13 +1,12 @@
 ```markdown
 <h1 align="center">
-    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png" width="30"/> <span style="font-family: 'Comic Sans MS', cursive, sans-serif;">Hello Stranger!! This is sabyasc. Now, let's begin.. 🚀</span>
+    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png" width="30"/> <span style="font-family: 'Comic Sans MS', cursive, sans-serif;"> Hello Stranger!! This is sabyasc. Now, let's begin.. 🚀</span>
 </h1>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Dream+to+Create+for+Good" />
 </p>
 
-```markdown
 <p align="center">
     <a href="https://github.com/sabyasc">
         <img src="https://github-profile-trophy.vercel.app/?username=sabyasc&theme=onedark&no-frame=true&row=1&column=7" />
@@ -19,7 +18,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabyasc&layout=compact&theme=radical" />
     </a>
 </p>
-```
 
 ### 👨‍💻 About Me
 - 🔭 Currently I am working on Integrations between ML and DevOps development projects
