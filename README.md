@@ -10,6 +10,9 @@
     <a href="https://github.com/sabyasc">
         <img src="https://github-profile-trophy.vercel.app/?username=sabyasc&theme=onedark&no-frame=true&row=1&column=7" />
     </a>
+</p>
+
+<p align="center">
     <a href="https://github.com/sabyasc">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabyasc&theme=radical" />
     </a>
