@@ -14,12 +14,13 @@
 
 <p align="center">
     <a href="https://github.com/sabyasc">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabyasc&theme=radical" />
-    </a>
-    <a href="https://github.com/sabyasc">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabyasc&layout=compact&theme=radical" />
     </a>
 </p>
+
+<a href="https://github.com/sabyasc">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabyasc&theme=radical" />
+    </a>
 
 ### 👨‍💻 About Me
 - 🔭 Currently I am working on Integrations between ML and DevOps development projects
