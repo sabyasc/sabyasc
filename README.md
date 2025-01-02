@@ -2,7 +2,7 @@
     <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png" width="30"/> <span style="font-family: 'Comic Sans MS', cursive, sans-serif;"> Hello Stranger!! This is sabyasc. Now, let's begin.. 🚀</span>
 </h1>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Lets+Dream+to+Create+for+Good+&+Pure" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Lets+Dream+to+Create+for+Good+n+Pure" />
 </p>
 
 <p align="center">
