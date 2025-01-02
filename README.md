@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">
     <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png" width="30"/> <span style="font-family: 'Comic Sans MS', cursive, sans-serif;"> Hello Stranger!! This is sabyasc. Now, let's begin.. 🚀</span>
 </h1>
@@ -25,7 +24,7 @@
 - 💬 Feel free to ask me about ML Pipelines, DevOps, REST APIs, IaC and Microservices with Python or Java
 
 ### 🤝 Reach Out for Collaboration
-- 💡 Have an exciting project idea? Let's Connect & collaborate !
+- 💡 Do you have an exciting project idea? Let's Connect & collaborate !
 - 📫 Reach out to me via [LinkedIn](https://www.linkedin.com/in/sabyasc/) or [Email](mailto:sabya.1834090@gmail.com)
 
 ### 🛠️ Languages & Tools
@@ -35,5 +34,4 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-05122A?style=flat&logo=html5&logoColor=white) &nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) ![REST APIs](https://img.shields.io/badge/-REST%20APIs-05122A?style=flat&logo=rest)
 
-© 2024 sabyasc
-```
+© 2025 sabyasc
