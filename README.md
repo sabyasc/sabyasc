@@ -40,4 +40,4 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-05122A?style=flat&logo=html5&logoColor=white) &nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) ![REST APIs](https://img.shields.io/badge/-REST%20APIs-05122A?style=flat&logo=rest)
 
-© 2025 @sabyasc
+© 2025 sabyasc
