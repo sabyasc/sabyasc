@@ -1,10 +1,9 @@
 <h1 align="center">
     <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png" width="30"/> <span style="font-family: 'Comic Sans MS', cursive, sans-serif;"> Hello Stranger!! This is sabyasc. Now, let's begin.. 🚀</span>
-    <br>
-    <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Dream+to+Create+for+Good" />
-    </p>
 </h1>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Lets+Dream+to+Create+for+Good+and+Pure" />
+</p>
 
 <p align="center">
     <a href="https://github.com/sabyasc">
