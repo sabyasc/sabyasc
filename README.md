@@ -30,12 +30,6 @@
 - 🚀 Passionate about building auto scalable and efficient solutions
 - 💬 Feel free to ask me about ML Pipelines, DevOps, REST APIs, IaC and Microservices with Python or Java
 
-<p align="center">
-    <a href="https://github.com/sabyasc">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabyasc&theme=radical" />
-    </a>
-</p>
-
 ### 🤝 Reach Out for Collaboration
 - 💡 Do you have an exciting project idea? Let's Connect & collaborate !
 - 📫 Reach out to me via [LinkedIn](https://www.linkedin.com/in/sabyasc/) or [Email](mailto:sabya.1834090@gmail.com)
