@@ -6,12 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Lets+Dream+to+Create+for+Good" />
 </p>
 
-<p align="center">
-    <a href="https://github.com/sabyasc">
-        <img src="https://github-profile-trophy.vercel.app/?username=sabyasc&theme=onedark&no-frame=true&row=1&column=7" />
-    </a>
-</p>
-
 ### 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=white) &nbsp; 
